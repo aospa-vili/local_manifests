@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Remote for aospa-vili -->
+  <remote name="aospa-vili"
+          fetch="https://github.com/aospa-vili"
+          revision="17" />
+
+  <!-- Device trees -->
+  <project name="device_xiaomi_vili" path="device/xiaomi/vili" remote="aospa-vili" revision="17" />
+  <project name="device_xiaomi_sm8350-common" path="device/xiaomi/sm8350-common" remote="aospa-vili" revision="17" />
+
+  <!-- Vendor trees -->
+  <project name="proprietary_vendor_xiaomi_vili" path="vendor/xiaomi/vili" remote="aospa-vili" revision="17" />
+  <project name="proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" remote="aospa-vili" revision="17" />
+  <project name="proprietary_vendor_xiaomi_camera" path="vendor/xiaomi/camera" remote="aospa-vili" revision="17" />
+  <project name="vendor-xiaomi-vili-firmware" path="vendor/xiaomi/vili-firmware" remote="aospa-vili" revision="17" />
+
+  <!-- Kernel & Hardware -->
+  <project name="kernel_xiaomi_sm8350" path="kernel/xiaomi/sm8350" remote="aospa-vili" revision="17" />
+  <project name="hardware_xiaomi" path="hardware/xiaomi" remote="aospa-vili" revision="17" />
+
+  <!-- Packages & Extras -->
+  <project name="proprietary_vendor_sony_dolby" path="vendor/sony/dolby" remote="aospa-vili" revision="17" />
+  <project name="packages_apps_LunarisDolby" path="packages/apps/LunarisDolby" remote="aospa-vili" revision="17" />
+  <project name="packages_apps_GameBar" path="packages/apps/GameBar" remote="aospa-vili" revision="17" />
+  <project name="packages_apps_TouchServices" path="packages/apps/TouchServices" remote="aospa-vili" revision="17" />
+  <project name="packages_apps_Matlog" path="packages/apps/Matlog" remote="aospa-vili" revision="17" />
+  <project name="vendor_bcr" path="vendor/bcr" remote="aospa-vili" revision="17" />
+
+</manifest>
