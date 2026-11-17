@@ -23,17 +23,13 @@ REPOS=(
     "hardware_xiaomi:hardware/xiaomi"
     "proprietary_vendor_sony_dolby:vendor/sony/dolby"
     "packages_apps_LunarisDolby:packages/apps/LunarisDolby"
-    "packages_apps_GameBar:packages/apps/GameBar"
-    "packages_apps_TouchServices:packages/apps/TouchServices"
-    "packages_apps_Matlog:packages/apps/Matlog"
-    "vendor_bcr:vendor/bcr"
 )
 
 BASE_URL="https://github.com/aospa-vili"
 BRANCH="17"
 
 echo "=========================================================="
-echo " Cloning all 14 repositories for Xiaomi 11T Pro (vili)..."
+echo " Cloning all 10 repositories for Xiaomi 11T Pro (vili)..."
 echo " Target Branch: $BRANCH"
 echo " Base Org:      $BASE_URL"
 echo "=========================================================="

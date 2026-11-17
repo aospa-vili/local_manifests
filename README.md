@@ -68,15 +68,11 @@ git clone https://github.com/aospa-vili/hardware_xiaomi.git -b 17 hardware/xiaom
 ```bash
 git clone https://github.com/aospa-vili/proprietary_vendor_sony_dolby.git -b 17 vendor/sony/dolby
 git clone https://github.com/aospa-vili/packages_apps_LunarisDolby.git -b 17 packages/apps/LunarisDolby
-git clone https://github.com/aospa-vili/packages_apps_GameBar.git -b 17 packages/apps/GameBar
-git clone https://github.com/aospa-vili/packages_apps_TouchServices.git -b 17 packages/apps/TouchServices
-git clone https://github.com/aospa-vili/packages_apps_Matlog.git -b 17 packages/apps/Matlog
-git clone https://github.com/aospa-vili/vendor_bcr.git -b 17 vendor/bcr
 ```
 
 ---
 
-### Single Copy-Paste Block (All 14 Repositories)
+### Single Copy-Paste Block (All 10 Repositories)
 
 ```bash
 git clone https://github.com/aospa-vili/device_xiaomi_vili.git -b 17 device/xiaomi/vili && \
@@ -88,11 +84,7 @@ git clone https://github.com/aospa-vili/vendor-xiaomi-vili-firmware.git -b 17 ve
 git clone https://github.com/aospa-vili/kernel_xiaomi_sm8350.git -b 17 kernel/xiaomi/sm8350 && \
 git clone https://github.com/aospa-vili/hardware_xiaomi.git -b 17 hardware/xiaomi && \
 git clone https://github.com/aospa-vili/proprietary_vendor_sony_dolby.git -b 17 vendor/sony/dolby && \
-git clone https://github.com/aospa-vili/packages_apps_LunarisDolby.git -b 17 packages/apps/LunarisDolby && \
-git clone https://github.com/aospa-vili/packages_apps_GameBar.git -b 17 packages/apps/GameBar && \
-git clone https://github.com/aospa-vili/packages_apps_TouchServices.git -b 17 packages/apps/TouchServices && \
-git clone https://github.com/aospa-vili/packages_apps_Matlog.git -b 17 packages/apps/Matlog && \
-git clone https://github.com/aospa-vili/vendor_bcr.git -b 17 vendor/bcr
+git clone https://github.com/aospa-vili/packages_apps_LunarisDolby.git -b 17 packages/apps/LunarisDolby
 ```
 
 ---
@@ -111,7 +103,3 @@ git clone https://github.com/aospa-vili/vendor_bcr.git -b 17 vendor/bcr
 | 8 | `hardware/xiaomi` | [`hardware_xiaomi`](https://github.com/aospa-vili/hardware_xiaomi) | `17` |
 | 9 | `vendor/sony/dolby` | [`proprietary_vendor_sony_dolby`](https://github.com/aospa-vili/proprietary_vendor_sony_dolby) | `17` |
 | 10 | `packages/apps/LunarisDolby` | [`packages_apps_LunarisDolby`](https://github.com/aospa-vili/packages_apps_LunarisDolby) | `17` |
-| 11 | `packages/apps/GameBar` | [`packages_apps_GameBar`](https://github.com/aospa-vili/packages_apps_GameBar) | `17` |
-| 12 | `packages/apps/TouchServices` | [`packages_apps_TouchServices`](https://github.com/aospa-vili/packages_apps_TouchServices) | `17` |
-| 13 | `packages/apps/Matlog` | [`packages_apps_Matlog`](https://github.com/aospa-vili/packages_apps_Matlog) | `17` |
-| 14 | `vendor/bcr` | [`vendor_bcr`](https://github.com/aospa-vili/vendor_bcr) | `17` |

@@ -23,9 +23,5 @@
   <!-- Packages & Extras -->
   <project name="proprietary_vendor_sony_dolby" path="vendor/sony/dolby" remote="aospa-vili" revision="17" />
   <project name="packages_apps_LunarisDolby" path="packages/apps/LunarisDolby" remote="aospa-vili" revision="17" />
-  <project name="packages_apps_GameBar" path="packages/apps/GameBar" remote="aospa-vili" revision="17" />
-  <project name="packages_apps_TouchServices" path="packages/apps/TouchServices" remote="aospa-vili" revision="17" />
-  <project name="packages_apps_Matlog" path="packages/apps/Matlog" remote="aospa-vili" revision="17" />
-  <project name="vendor_bcr" path="vendor/bcr" remote="aospa-vili" revision="17" />
 
 </manifest>
